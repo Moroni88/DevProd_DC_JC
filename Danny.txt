@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Cool Man
 k doodCool Man
+=======
+You are crazy
+hello
+
+>>>>>>> bbc9aeb524d3003531cf3ecd1f350a8e0f5cea3a
+Cool Man
